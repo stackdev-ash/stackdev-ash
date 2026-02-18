@@ -3,21 +3,16 @@
 <h1 align="center">Hey 👋, I'am Ashish Sharma</h1>
 
 ###
-
 <h5 align="center">CS Student & Full-Stack Developer | India</h5>
 
 ###
-
 <h2 align="left">About me</h2>
 
 ###
-
 <br clear="both">
-
-<img align="right" height="200" src="https://tenor.com/qLVp1Zndww.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5Z2ppbHZiNGVrZWpjd3JwNHhoaTRjNzFqMzMwbDV1ZHl4Yzg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
 ###
-
 <p align="left">• 🎓 B.Tech Computer Science Student<br><br>• 💻 Full-Stack Web Developer<br><br>• 🧠 DSA & Problem-Solving Enthusiast<br><br>• 🚀 Building Scalable Web Applications<br><br>• 📈 Continuously Learning & Growing</p>
 
 ###
@@ -25,7 +20,6 @@
 <h2 align="left">Tech Stack</h2>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
