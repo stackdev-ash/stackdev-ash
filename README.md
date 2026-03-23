@@ -1,15 +1,28 @@
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
 
-<h5 align="center">CS Student & Full-Stack Developer | India</h5>
+<h4 align="center">CS Student & Full-Stack Developer | India</h4>
 <h2 align="left">About me</h2>
 
 <img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5Z2ppbHZiNGVrZWpjd3JwNHhoaTRjNzFqMzMwbDV1ZHl4Yzg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
 <p align="left">• 🎓 B.Tech Computer Science Student<br><br>• 💻 Full-Stack Web Developer<br><br>• 🧠 DSA & Problem-Solving Enthusiast<br><br>• 🚀 Building Scalable Web Applications<br><br>• 📈 Continuously Learning & Growing</p>
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/ashish-cse/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
 
+<a href="https://leetcode.com/u/genwinn/" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+</a>
 
+<a href="https://www.codechef.com/users/genwin" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="codechef" height="30" width="40" />
+</a>
+</p>
+
+<h2 align="left">Tech Stack:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -44,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/>
 </div>
 
 <br></br>
