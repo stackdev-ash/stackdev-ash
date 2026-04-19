@@ -9,17 +9,17 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-cse/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/ashish-cse/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/genwinn/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-</a>
+  <a href="https://leetcode.com/u/genwinn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
+  </a>&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/users/genwin" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" alt="codechef" height="30" width="40" />
-</a>
+  <a href="https://www.codechef.com/users/genwin" target="_blank">
+    <img src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" height="40" />
+  </a>
 </p>
 
 <h2 align="left">Tech Stack:</h2>
