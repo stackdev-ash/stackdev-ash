@@ -1,84 +1,67 @@
 <h1 align="center">Hi 👋, I'm Ashish Sharma</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | Backend & DevOps Enthusiast</h3>
 
-<h4 align="center">CS Student & Full-Stack Developer | India</h4>
-<h2 align="left">About me</h2>
+<p align="center">
+  I build web applications and explore what makes them reliable, secure, and scalable.
+</p>
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5Z2ppbHZiNGVrZWpjd3JwNHhoaTRjNzFqMzMwbDV1ZHl4Yzg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
-
-<p align="left">• 🎓 B.Tech Computer Science Student<br><br>• 💻 Full-Stack Web Developer<br><br>• 🧠 DSA & Problem-Solving Enthusiast<br><br>• 🚀 Building Scalable Web Applications<br><br>• 📈 Continuously Learning & Growing</p>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ashish-cse/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://leetcode.com/u/genwinn/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
-  </a>&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
   <a href="https://www.codechef.com/users/genwin" target="_blank">
-    <img src="https://user-images.githubusercontent.com/112865144/208242156-4db8653b-0464-43ce-a54e-08f701b64b73.png" height="40" />
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
-<h2 align="left">Tech Stack:</h2>
-<div align="left">
+---
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+## 👨‍💻 About Me
 
-  <!-- Frontend -->
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img width="12"/>
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.0~s.iziag2xd..svg" height="40" alt="tailwindcss"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img width="12"/>
-  <img src="https://camo.githubusercontent.com/77adf5f52c8ec6ef1ebdd7008fed216c006cb190941c7f379f6b9b8c212bdeef/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" height="40" alt="nextjs"/>
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t5Z2ppbHZiNGVrZWpjd3JwNHhoaTRjNzFqMzMwbDV1ZHl4Yzg2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 
+- 🎓 B.Tech Computer Science student in India.
+- 🧩 Interested in full-stack development, backend engineering, web security, and DevOps.
+- ⚙️ Building applications with a focus on APIs, authentication, real-time features, and maintainable code.
+- 🧠 Practising DSA and strengthening computer science fundamentals.
+- 🌱 Currently deepening my knowledge of Docker, Linux, automated testing, and system design.
 
-  <!-- Backend & Databases -->
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" height="40" alt="postgresql"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql"/>
+## 🛠️ Tech Stack
 
-  <!-- Tools -->
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
-  <img width="12"/>
-  <img src="https://vercel.com/platforms/favicon.ico?favicon.0b3bf435.ico" height="40" alt="vercel logo" />
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,java" alt="C++, JavaScript, TypeScript, Python, Java"/>
 
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, React, Next.js, Tailwind CSS, Bootstrap"/>
 
-</div>
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis,prisma,socketio" alt="Node.js, Express, MongoDB, PostgreSQL, MySQL, Redis, Prisma, Socket.IO"/>
 
-<br></br>
+**DevOps, Testing & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,git,github,postman,selenium,bash" alt="Docker, Linux, AWS, Git, GitHub, Postman, Selenium, Bash"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackdev-ash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## 🚀 Projects & Areas of Work
+- **StockVista** — Stock-tracking web application with authentication, stock search, watchlists, price alerts, and market-data visualizations.
+- **LokBus** — Real-time public transport tracking concept focused on live location updates, ETA information, and low-bandwidth usability.
+- **AuthVerse** — Authentication-focused web application using Next.js, TypeScript, PostgreSQL, Prisma, and Auth.js.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=stackdev-ash&show_icons=true&hide_border=true&theme=transparent" alt="Ashish's GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackdev-ash&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</p>
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=stackdev-ash&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center"><i>Learning by building, testing, debugging, and understanding the fundamentals behind the tools.</i></p>
